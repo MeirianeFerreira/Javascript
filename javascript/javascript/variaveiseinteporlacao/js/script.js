@@ -32,7 +32,7 @@ const valores="589";
 console.log(valores);
 console.log(typeof valores)
 
-//estuda tabela aski Erika
+
 // Pular uma linha da string
 console.log(" Vou pular a linha \n R$ 50,00");
 //Espaçamento entre as strings
